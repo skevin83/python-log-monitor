@@ -1,0 +1,15 @@
+Output
+Line 6: 2019-4-1 13:33:49 [190] User3 runs some job
+Line 7: 2019-4-1 13:33:50 [123] User1 clicks search button
+Line 8: 2019-4-1 13:33:53 [256] User2 does something
+Line 9: 2019-4-1 13:33:54 [123] ERROR: Some exception occured----- 
+Line 10: 2019-4-1 13:33:56 [256] User2 logs off
+Line 11: 2019-4-1 13:33:57 [190] ERROR: Invalid input----- 
+Line 12: 2019-4-1 13:33:58 [123] User2 clicks search button
+Line 13: 2019-4-1 13:33:58 [256] User2 does something
+Line 14: 2019-4-1 13:33:58 [123] ERROR: Some known bug occured----- 
+Line 15: 2019-4-1 13:33:59 [256] User2 logs off
+Line 16: 2019-4-1 13:33:59 [190] User3 runs some job
+Line 17: 2019-4-1 13:33:59 [123] User1 clicks search button
+Line 18: 2019-4-1 13:33:59 [190] ERROR: Unknown----- 
+Line 19: 2019-4-1 13:33:59 [190] ERROR: Unknown----- 
